@@ -4,3 +4,8 @@ Este é o trabalho sobre wireframe e testes pertencentes a Jhoni Allex e Gabriel
 Site: https://medplus1.wordpress.com/
 
 Caso o botão de ir para outro site não funcione, esse é o link da outra página: https://medplusconfirm.wordpress.com/
+
+Está nesse repositório:
+. 3 imagens do wireframe
+. Documento da ergonomia do site
+. Mapeamento de feedback
